@@ -1,7 +1,7 @@
 # Fibonacci
 
- The Source files are in /src folder.
- The TestCases are in the /test folder
+ The Source files are in /src/fibonacci folder.
+ The TestCases are in the /test/FibonacciTest folder
  
  * I have implemented Fibonacci series using both Iterative and Recursive approach.
  *  function fibIteration(int n) takes in 'n' as int and returns a list of the first n numbers in the Fibonacci series
