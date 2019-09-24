@@ -1,4 +1,4 @@
-# Fibonacci
+# Fibonacci Series
 
  The Source file is in /src/fibonacci folder (Run file Fibonacci.java).
  The TestCases are in the /test/FibonacciTest folder
