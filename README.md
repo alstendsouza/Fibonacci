@@ -1,4 +1,8 @@
 # Fibonacci
+
+ The Source files are in /src folder
+ The TestCases are in the /test folder
+ 
  * I have implemented Fibonacci series using both Iterative and Recursive approach.
  *  function fibIteration(int n) takes in 'n' as int and returns a list of the first n numbers in the Fibonacci series
  *  function fibRecursion(int n) takes in 'n' as int and return only the fibonacci number of n, but it is called n times from the main method
@@ -9,5 +13,4 @@
  *   A negative value of n and a value greater than bounds of int would throw an IllegalArgumentException()
 
  
- The Source files are in /src folder
- The TestCases are in the /test folder
+
