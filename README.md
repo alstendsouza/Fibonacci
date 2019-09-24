@@ -1,6 +1,6 @@
 # Fibonacci
 
- The Source files are in /src folder
+ The Source files are in /src folder.
  The TestCases are in the /test folder
  
  * I have implemented Fibonacci series using both Iterative and Recursive approach.
